@@ -6,7 +6,7 @@ belligerent_drift:0 "£boost_popularity_belligerent_texticon  Daily Belligerent 
 unaligned_drift:0 "£boost_popularity_unaligned_texticon  Daily Unaligned Support"
 revolutionary_drift:0 "£boost_popularity_revolutionary_texticon  Daily Revolutionary Support"
 #Laws and Advisors
-centralization_law_cost_factor:0 "Centralization Cost Factor"
+centralization_law_cost_factor:0 "£legislation_texticon Centralization Cost Factor"
 taxation_law_cost_factor:0 "£legislation_texticon Taxation Law Cost Factor"
 trade_law_cost_factor:0 "£legislation_texticon Trade Law Cost Factor"
 conscription_law_cost_factor:0 "£legislation_texticon Levies Cost Factor"
