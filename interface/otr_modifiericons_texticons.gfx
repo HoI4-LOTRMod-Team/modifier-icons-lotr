@@ -1,0 +1,103 @@
+spriteTypes = {	
+	#Ideology
+	spriteType = {
+		name = "GFX_boost_popularity_cooperative_texticon"
+		texturefile = "gfx/texticons/lotr/boost_popularity_cooperative_texticon.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_boost_popularity_revolutionary_texticon"
+		texturefile = "gfx/texticons/lotr/boost_popularity_revolutionary_texticon.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_boost_popularity_belligerent_texticon"
+		texturefile = "gfx/texticons/lotr/boost_popularity_belligerent_texticon.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_boost_popularity_unaligned_texticon"
+		texturefile = "gfx/texticons/lotr/boost_popularity_unaligned_texticon.dds"
+		legacy_lazy_load = no
+	}
+	#Research
+	spriteType = {
+		name = "GFX_alchemy_texticon"
+		texturefile = "gfx/texticons/lotr/alchemy_texticon.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_research_texticon"
+		texturefile = "gfx/texticons/lotr/research_texticon.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_metalworking__texticon"
+		texturefile = "gfx/texticons/lotr/metalworking__texticon.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_mining_research_texticon"
+		texturefile = "gfx/texticons/lotr/mining_research_texticon.dds"
+		legacy_lazy_load = no
+	}
+	#Army
+	spriteType = {
+		name = "GFX_defence_archery_texticon"
+		texturefile = "gfx/texticons/lotr/defence_archery_texticon.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_attack_archery_texticon"
+		texturefile = "gfx/texticons/lotr/attack_archery_texticon.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_horse_armor_texticon"
+		texturefile = "gfx/texticons/lotr/horse_armor_texticon.dds"
+		legacy_lazy_load = no
+	}
+	#Air
+	spriteType = {
+		name = "GFX_eagles_texticon"
+		texturefile = "gfx/texticons/lotr/eagles_texticon.dds"
+		legacy_lazy_load = no
+	}
+	#Advisors/laws
+	spriteType = {
+		name = "GFX_council_of_study_texticon"
+		texturefile = "gfx/texticons/lotr/council_of_study_texticon.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_council_of_war_texticon"
+		texturefile = "gfx/texticons/lotr/council_of_war_texticon.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_legislation_texticon"
+		texturefile = "gfx/texticons/lotr/legislation_texticon.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_small_council_texticon"
+		texturefile = "gfx/texticons/lotr/small_council_texticon.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_taxes_texticon"
+		texturefile = "gfx/texticons/lotr/taxes_texticon.dds"
+		legacy_lazy_load = no
+	}
+	#Buildings
+	spriteType = {
+		name = "GFX_encampment_texticon"
+		texturefile = "gfx/texticons/lotr/encampment_texticon.dds"
+		legacy_lazy_load = no
+	}
+	spriteType = {
+		name = "GFX_construction_encampment_texticon"
+		texturefile = "gfx/texticons/lotr/construction_encampment_texticon.dds"
+		legacy_lazy_load = no
+	}
+}
