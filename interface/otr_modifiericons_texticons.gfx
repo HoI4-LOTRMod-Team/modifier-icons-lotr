@@ -100,4 +100,9 @@ spriteTypes = {
 		texturefile = "gfx/texticons/lotr/construction_encampment_texticon.dds"
 		legacy_lazy_load = no
 	}
+	spriteType = {
+		name = "GFX_castle_texticon"
+		texturefile = "gfx/texticons/lotr/castle_texticon.dds"
+		legacy_lazy_load = no
+	}
 }

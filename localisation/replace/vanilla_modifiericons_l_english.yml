@@ -70,6 +70,14 @@ lotr_machines_research:0 "£research_texticon  Warmachines Research"
 lotr_machines_ballista_research:0 "£research_texticon  Ballista Research"
 lotr_machines_windlance_research:0 "£research_texticon  Windlance Research"
 lotr_machines_siege_equipment_research:0 "£research_texticon  Siege Equipment Research"
+
+#Construction
+
+MODIFIER_LAND_BUNKER_EFFECTIVENESS_FACTOR: "§Y$castle$§! effectiveness"
+
+modifier_production_speed_castle_factor:0 "£castle_texticon §Y$castle$§! construction speed"
+modifier_production_speed_castle_factor_desc:0 "Modifies the speed of $castle$ construction in this state."
+
 #abilities_l_english
  ABILITY_TOOLTIP_COST:0 "£command_power_texticon  Command Power Cost: $VALUE|H$"
 
@@ -506,8 +514,8 @@ lotr_machines_siege_equipment_research:0 "£research_texticon  Siege Equipment R
  modifier_production_speed_air_base_factor_desc:0 "Modifies the speed of Air base construction."
  modifier_production_speed_naval_base_factor:0 "£construction_speed_navalbase_texticon  §YNaval base§! construction speed"
  modifier_production_speed_naval_base_factor_desc:0 "Modifies the speed of Naval base construction."
- modifier_production_speed_bunker_factor:0 "£construction_encampment_texticon  §YLand Fort§! construction speed"
- modifier_production_speed_bunker_factor_desc:0 "Modifies the speed of Bunker construction."
+ modifier_production_speed_bunker_factor:0 "£construction_encampment_texticon  §YEncampment§! construction speed"
+ modifier_production_speed_bunker_factor_desc:0 "Modifies the speed of Encampment construction."
  modifier_production_speed_coastal_bunker_factor:0 "£construction_speed_coastfort_texticon  §YCoastal Fort§! construction speed"
  modifier_production_speed_coastal_bunker_factor_desc:0 "Modifies the speed of Coastal bunker construction."
  modifier_production_speed_dockyard_factor:0 "£construction_speed_dockyard_texticon  §YDockyard§! construction speed"
